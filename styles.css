@@ -1,0 +1,93 @@
+.city {
+   background-color:violet;
+   border: 2px solid black;
+   margin: 20px;
+   padding: 10px;
+ }
+.lopA {
+   background-color:pink;
+   border: 2px solid black;
+   margin: 20px;
+   padding: 20px;
+   text-align: center;
+ }
+#myid {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+body {
+  background-image: url('image/picture.jpg');
+  background-size: 100% 100%;
+  background-color: powderblue;
+}
+/*h1 {
+  color: blue;
+  font-family:courier;
+  font-size:160%;
+  background-color:lightsalmon;
+}*/
+h2 {
+  background-image: url('image/background.jpg');
+  padding:30px;
+  margin:30px;
+}
+a:link {
+  color: wheat;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: lime;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: chocolate;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: cyan;
+  background-color: transparent;
+  text-decoration: underline;
+}
+img {
+  width: 400;
+  height:379;
+}
+table{
+  font-size:150%;
+  border:5px double black;
+  border-collapse: collapse;
+}
+th{
+  font-size:150%;
+  border:2px solid  black;
+  background-color:chocolate;}
+td{
+  font-size:150%;
+  border:2px solid  black;
+}
+th,td{
+  boder:1px solid black;
+  padding-top: 12px;
+  padding-bottom:12px;
+  padding-left: 13px;
+  padding-right:13px;
+}
+div{
+  color: yellow;
+  font-family:Time New Roman;
+  font-size:30;
+}
+p{
+  color:green;
+  font-family:courier;
+  font-size:160%;
+}
+
